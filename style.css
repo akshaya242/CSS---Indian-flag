@@ -4,7 +4,7 @@
 }
 
 .white{
-    display: fixed;
+    position: relative;
     background-color: #FFFFFF;
     height: 300px;
 }
@@ -19,15 +19,16 @@ body{
 }
 
 .container{
-    width: 75%;
+    width: 100%;
     
     justify-content: center;
 
 }
 
 img{
+    position: relative;
     height: 250px;
     width: 200px;
-    padding-left: 450px;
-    padding-top: 30px;
+    left: 40%;
+    top: 10%;
 }
