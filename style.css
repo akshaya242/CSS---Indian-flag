@@ -1,0 +1,33 @@
+.saffron{
+    background-color: #FF671F;
+    height: 300px;
+}
+
+.white{
+    display: fixed;
+    background-color: #FFFFFF;
+    height: 300px;
+}
+
+.green{
+    background-color: #046A38;
+    height: 300px;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+.container{
+    width: 75%;
+    
+    justify-content: center;
+
+}
+
+img{
+    height: 250px;
+    width: 200px;
+    padding-left: 500px;
+    padding-top: 30px;
+}
